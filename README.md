@@ -1,6 +1,6 @@
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas  
-💻 Aprendendo Desenvolvimento Web e Back-End
+💻 Aprendendo Desenvolvimento Web e Back-End  
 🚀 Criando projetos para evoluir minhas habilidades
 
 ## 🛠️ Tecnologias que estou aprendendo 
