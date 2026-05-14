@@ -6,6 +6,7 @@
 ## 🛠️ Tecnologias que estou aprendendo 
 - HTML & CSS
 - C#
+- Python / Flask
 - Git & GitHub
 - MySQL
 
