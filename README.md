@@ -1,16 +1,15 @@
-## Hi there 👋
 
-<!--
-**vittofranco/vittofranco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas  
+💻 Aprendendo Desenvolvimento Web e Back-End
+🚀 Criando projetos para evoluir minhas habilidades
 
-Here are some ideas to get you started:
+## 🛠️ Tecnologias que estou aprendendo 
+- HTML & CSS
+- C#
+- Git & GitHub
+- MySQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Objetivos
+- Me tornar um Desenvolvedor Full-Stack
+- Aprender boas práticas de desenvolvimento
+- Criar projetos reais para resolver problemas do dia a dia
